@@ -1,1 +1,306 @@
-[]
+[
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000066",
+    "release_date": "2026-07-22",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 119796,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 96,428 | $ | 119,796"
+      },
+      "operating_income": {
+        "value": 40770,
+        "unit": "USD millions",
+        "quote": "Income from operations | 31,271 | 40,770"
+      },
+      "net_income": {
+        "value": 112193,
+        "unit": "USD millions",
+        "quote": "Net income | 28,196 | 112,193"
+      },
+      "diluted_eps": {
+        "value": 9.11,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.31 | $ | 9.11"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Revenues grew strongly, with Google Cloud growth accelerating.",
+        "quote": "Q2 was an amazing quarter, with Alphabet revenues growing 24% year-over-year and Google Cloud revenues accelerating to 82% growth"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Operating income rose and the operating margin widened.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin expanded by 2 percentage points to 34%."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "Other income was a large net gain, mainly from unrealised gains on equity securities.",
+        "quote": "Other income reflected a net gain of $98.0 billion, primarily the result of net unrealized gains on our equity securities."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter amazing and the results outstanding, and mentions no headwind."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000066.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/0001652044-26-000066-index.htm",
+    "saved_at": "2026-10-25T21:41:42+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000024",
+    "release_date": "2026-07-30",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 200606,
+        "unit": "USD millions",
+        "quote": "Total net sales | 167,702 | 200,606"
+      },
+      "operating_income": {
+        "value": 27461,
+        "unit": "USD millions",
+        "quote": "Operating income | 19,171 | 27,461"
+      },
+      "net_income": {
+        "value": 62647,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 18,164 | $ | 62,647"
+      },
+      "diluted_eps": {
+        "value": 5.75,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.68 | $ | 5.75"
+      }
+    },
+    "guidance": {
+      "text": "Amazon expects third quarter 2026 net sales of $197.0 billion to $202.0 billion, growth of 9% to 12%.",
+      "quote": "Net sales are expected to be between $197.0 billion and $202.0 billion, or to grow between 9% and 12% compared with third quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Net sales rose 20% year over year.",
+        "quote": "Net sales increased 20% to $200.6 billion in the second quarter, compared with $167.7 billion in second quarter 2025."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Operating income rose against the same quarter last year.",
+        "quote": "Operating income increased to $27.5 billion in the second quarter, compared with $19.2 billion in second quarter 2025."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Net income included a large non-operating gain, mainly from its Anthropic investments.",
+        "quote": "Second quarter 2026 net income includes non-operating pre-tax other income of $53.4 billion, primarily from our investments in Anthropic."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says AWS is booming and advertising had another strong quarter."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000024.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/amzn-20260630xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/0001018724-26-000024-index.htm",
+    "saved_at": "2026-10-25T21:41:42+08:00"
+  },
+  {
+    "cik": "1326801",
+    "company": "Meta Platforms",
+    "accession": "0001628280-26-066700",
+    "release_date": "2026-10-21",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 64601,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 64,601"
+      },
+      "operating_income": {
+        "value": 12988,
+        "unit": "USD millions",
+        "quote": "Income from operations | $ | 12,988"
+      },
+      "net_income": {
+        "value": 9860,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 9,860"
+      },
+      "diluted_eps": {
+        "value": 3.83,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share (EPS) | $ | 3.83"
+      }
+    },
+    "guidance": {
+      "text": "Meta expects fourth quarter 2026 total revenue of $73-76 billion.",
+      "quote": "We expect fourth quarter 2026 total revenue to be in the range of $73-76 billion."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Revenue grew 26% year over year on a reported and constant currency basis.",
+        "quote": "Revenue was $64.60 billion, an increase of 26% year-over-year on both a reported and constant currency basis."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Costs and expenses rose 68%, including a litigation charge.",
+        "quote": "Total costs and expenses were $51.61 billion, an increase of 68% year-over-year. This includes the litigation charge as discussed above."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Without the litigation charge, operating income would have been higher.",
+        "quote": "Income from operations of $12.99 billion would have increased by $9.89 billion to $22.88 billion."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "Management expects strong revenue growth to continue through 2027.",
+        "quote": "position us to sustain strong overall revenue growth throughout 2027."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the core business is strong and the CFO expects strong revenue growth through 2027, while noting the legal charge."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1326801-0001628280-26-066700.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/0001628280-26-066700-index.htm",
+    "saved_at": "2026-10-25T21:41:42+08:00"
+  },
+  {
+    "cik": "1466026",
+    "company": "Midland States Bancorp, Inc.",
+    "accession": "0001466026-26-000097",
+    "release_date": "2026-10-22",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 22.808,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | 22,808"
+      },
+      "diluted_eps": {
+        "value": 0.95,
+        "unit": "USD per share",
+        "quote": "Diluted earnings (loss) per common share | $ | 0.95"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Management describes the quarter as solid and reports earnings per share of $0.95.",
+        "quote": "Our third quarter results reflect another solid quarter of execution and continued progress toward building a higher-performing community bank."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "Credit quality improved, with the nonperforming asset ratio falling to 0.86%.",
+        "quote": "our nonperforming asset ratio improved to 0.86%"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management enters the fourth quarter focused on relationship growth and credit normalisation.",
+        "quote": "We enter the fourth quarter with solid momentum and remain focused on profitable relationship growth, continued credit normalization and disciplined capital deployment"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter solid, cites improved credit measures and solid momentum."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1466026-0001466026-26-000097.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1466026/000146602626000097/msbi-20260930exx991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1466026/000146602626000097/0001466026-26-000097-index.htm",
+    "saved_at": "2026-10-25T21:41:42+08:00"
+  },
+  {
+    "cik": "836157",
+    "company": "LINDSAY CORP",
+    "accession": "0001193125-26-428293",
+    "release_date": "2026-10-22",
+    "period_end": "2026-08-31",
+    "period_label": "quarter ended 31 August 2026",
+    "figures": {
+      "revenue": {
+        "value": 161.566,
+        "unit": "USD millions",
+        "quote": "Operating revenues | $ | 161,566"
+      },
+      "operating_income": {
+        "value": 15.793,
+        "unit": "USD millions",
+        "quote": "Operating income | 15,793"
+      },
+      "net_income": {
+        "value": 11.264,
+        "unit": "USD millions",
+        "quote": "Net earnings | $ | 11,264"
+      },
+      "diluted_eps": {
+        "value": 1.1,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 1.10"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "North America irrigation volume and revenue rose, helped by stronger commodity prices.",
+        "quote": "North America irrigation revenue and unit volume increased in the fourth quarter, supported by stronger commodity prices and improving farmer sentiment"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "A June restructuring is expected to save about $8.0 million a year.",
+        "quote": "In June, we implemented a global restructuring that reduced our workforce, which we expect to generate approximately $8.0 million of net annualized savings."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management says it is too early to forecast a significant recovery in North America.",
+        "quote": "it is still too early to forecast significant recovery"
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO notes encouraging signs and infrastructure growth but says it is too early to forecast recovery and cites headwinds."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/836157-0001193125-26-428293.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/836157/000119312526428293/lnn-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/836157/000119312526428293/0001193125-26-428293-index.htm",
+    "saved_at": "2026-10-25T21:41:42+08:00"
+  }
+]

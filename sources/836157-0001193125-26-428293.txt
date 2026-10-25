@@ -1,0 +1,232 @@
+Company: LINDSAY CORP (CIK 836157)
+Accession: 0001193125-26-428293
+Results released: 2026-10-22
+Press release: https://www.sec.gov/Archives/edgar/data/836157/000119312526428293/lnn-ex99_1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/836157/000119312526428293/0001193125-26-428293-index.htm
+Saved: 2026-10-25T21:41:42+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 lnn-ex99_1.htm EX-99.1
+q
+Exhibit 99.1 18135 BURKE ST. OMAHA, NE 68022 TEL: 402-829-6800 FAX: 402-829-6836
+Lindsay Corporation Reports Fourth Quarter and Fiscal Year 2026 Results
+OMAHA, Neb., October 22, 2026—Lindsay Corporation (NYSE: LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and technology, today announced results for its fourth quarter and fiscal year, which ended on August 31, 2026.
+Key Highlights
+Fourth Quarter:
+•
+North America irrigation revenues increased 11 percent
+•
+International irrigation revenues were comparable to the prior year
+•
+Infrastructure revenues increased 13 percent, with a third consecutive quarter of road safety products growth
+•
+Operating income increased 39 percent to $15.8 million
+Full-Year:
+•
+North America irrigation revenues decreased 4 percent as challenging market conditions persisted
+•
+Delivered approximately $70 million of the $80 million project in the Middle East North Africa region
+•
+Infrastructure revenues decreased 13 percent, as a $20.0M Road Zipper project in the prior year did not repeat
+•
+Returned $96.1 million to shareholders through $80.7 million of share repurchases and $15.4 million of dividends
+“North America irrigation revenue and unit volume increased in the fourth quarter, supported by stronger commodity prices and improving farmer sentiment," said Randy Wood, President and Chief Executive Officer. "In the Middle East North Africa (MENA) region we completed delivery of approximately $70 million of the $80 million project that began in our fiscal second quarter. We expect to recognize the majority of the remaining $10 million in services revenue over the next 12 to 24 months. In Brazil, limited credit availability and low farmer profitability continued to pressure demand. We continue to be encouraged by the strong performance across our infrastructure business, which delivered double-digit percent revenue and operating income growth in the fourth quarter, supported by road safety products' third consecutive quarter of growth."
+Mr. Wood continued, "I'm pleased with the dedication and resiliency of our global team as we continue to demonstrate strong execution despite a volatile macro-economic environment. During the quarter, we took additional actions to better align our cost structure with current market demand and support margins. In June, we implemented a global restructuring that reduced our workforce, which we expect to generate approximately $8.0 million of net annualized savings. We remain focused on strengthening our operating performance, while investing in opportunities that support sustainable, long-term shareholder value creation. In fiscal 2026, we returned $96.1 million to shareholders through share repurchases and dividends, while also funding the largest capital investment in our history at our Lindsay, Nebraska facility. During the year, we announced a new share repurchase authorization of $150.0 million, of which $100.0 million remained available at the end of the fiscal year."
+Fourth Quarter Summary
+Consolidated Financial Summary | Fourth Quarter
+(dollars in millions, except per share amounts) | FY 2026 | FY 2025 | $ Change | % Change
+Total revenues | $161.6 | $153.6 | $8.0 | 5%
+Operating income | $15.8 | $11.3 | $4.5 | 39%
+Operating margin | 9.8% | 7.4%
+Net earnings | $11.3 | $10.8 | $0.5 | 4%
+Earnings per share | $1.10 | $0.99 | $0.11 | 11%
+Revenues for the fourth quarter of fiscal 2026 were $161.6 million, an increase of $8.0 million, or 5 percent, compared to revenues of $153.6 million in the prior year. North America irrigation revenues and infrastructure segment revenues were higher, while international irrigation revenues were comparable to the prior year.
+Operating income for the fourth quarter of fiscal 2026 was $15.8 million, an increase of $4.5 million, or 39 percent, compared to operating income of $11.3 million in the prior year. Operating margin was 9.8 percent of sales, compared to
+1
+7.4 percent of sales in the prior year. The increase in operating income and operating margin resulted from higher revenues and lower operating expenses compared to the prior year.
+Net earnings for the fourth quarter of fiscal 2026 were $11.3 million, an increase of $0.5 million, or 4 percent, compared with net earnings of $10.8 million in the prior year. Diluted earnings per share for the quarter of $1.10 reflected an increase of 11 percent compared with diluted earnings per share of $0.99 in the prior year. The year-over-year increase in net earnings resulted from higher operating income, which was partially offset by a higher effective tax rate and lower other income compared to the prior year.
+Fourth Quarter Segment Results
+Irrigation Segment | Fourth Quarter
+(dollars in millions) | FY 2026 | FY 2025 | $ Change | % Change
+Revenues:
+North America | $55.4 | $50.0 | $5.4 | 11%
+International | $78.3 | $79.0 | ($0.6) | (1%)
+Total revenues | $133.7 | $129.0 | $4.7 | 4%
+Operating income | $17.3 | $17.7 | ($0.4) | (2%)
+Operating margin | 12.9% | 13.7%
+Irrigation segment revenues for the fourth quarter of fiscal 2026 were $133.7 million, an increase of $4.7 million, or 4 percent, compared to $129.0 million in the prior year. North America irrigation revenues of $55.4 million increased $5.4 million, or 11 percent, compared to the prior year. The increase in revenues resulted primarily from higher unit sales volume while average selling prices were comparable to the prior year.
+International irrigation revenues for the fourth quarter of fiscal 2026 of $78.3 million were comparable to the prior year. Increases in the MENA region and other developed markets were offset by a decrease in Brazil. Revenues in the current year quarter were favorably impacted by the effects of foreign currency translation of approximately $2.4 million compared to the prior year.
+Irrigation segment operating income for the fourth quarter of fiscal 2026 of $17.3 million was comparable to the prior year. Operating margin was 12.9 percent of sales, compared to 13.7 percent in the prior year. The decrease in operating margin resulted primarily from higher input costs, which was partially offset by reductions in operating expenses compared to the prior year.
+Infrastructure Segment | Fourth Quarter
+(dollars in millions) | FY 2026 | FY 2025 | $ Change | % Change
+Total revenues | $27.8 | $24.5 | $3.3 | 13%
+Operating income | $5.0 | $3.5 | $1.4 | 41%
+Operating margin | 17.9% | 14.4%
+Infrastructure segment revenues for the fourth quarter of fiscal 2026 were $27.8 million, an increase of $3.3 million, or 13 percent, compared to $24.5 million in the prior year. The increase was primarily driven by higher sales of road safety products, which was partially offset by lower Road Zipper System™ sales and lease revenues compared to the prior year.
+Infrastructure segment operating income for the fourth quarter of fiscal 2026 was $5.0 million, an increase of $1.4 million, or 41 percent, compared to $3.5 million in the prior year. Operating margin was 17.9 percent of sales, compared to 14.4 percent of sales in the prior year. The increase in operating income and operating margin resulted from increased revenue and a more favorable margin mix of revenues compared to the prior year.
+2
+Full-Year Summary
+Consolidated Financial Summary | Full-Year
+(dollars in millions, except per share amounts) | FY 2026 | FY 2025 | $ Change | % Change
+Total revenues | $635.9 | $676.4 | ($40.5) | (6%)
+Operating income | $66.9 | $88.1 | ($21.2) | (24%)
+Operating margin | 10.5% | 13.0%
+Net earnings | $55.7 | $74.1 | ($18.4) | (25%)
+Earnings per share | $5.33 | $6.78 | ($1.45) | (21%)
+Revenues for fiscal 2026 were $635.9 million, a decrease of $40.5 million, or 6 percent, compared to revenues of $676.4 million in the prior year. Irrigation revenues decreased $26.5 million primarily due to lower comparative project sales in the MENA region and lower sales volume in North America and Brazil. Infrastructure revenues decreased $14.0 million, primarily due to lower Road Zipper System project sales as the prior year included a $20.0 million project that did not repeat. The decrease was partially offset by higher sales of road safety products compared to the prior year.
+Operating income for fiscal 2026 was $66.9 million, a decrease of $21.2 million, or 24 percent, compared to operating income of $88.1 million in the prior year. Operating margin was 10.5 percent of sales, compared to 13.0 percent of sales in the prior year. The decrease in operating income resulted primarily from lower revenues in both segments. Irrigation segment operating margin decreased primarily due to lower unit volume and the resulting lower fixed cost absorption as well as higher input costs. Infrastructure operating margin decreased primarily due to a $20.0 million Road Zipper project in the prior year that did not repeat.
+Net earnings for fiscal 2026 were $55.7 million, a decrease of $18.4 million, or 25 percent, compared to net earnings of $74.1 million in the prior year. Diluted earnings per share for fiscal 2026 of $5.33 reflects a decrease of 21 percent compared to $6.78 in the prior year. The decrease in net earnings resulted from lower operating income and a higher effective tax rate, both of which were partially offset by higher other income compared to the prior year.
+The backlog of unfilled orders as of August 31, 2026, was $102.5 million compared with $110.7 million on August 31, 2025. Included in these backlogs are amounts of $17.6 million and $9.8 million, respectively, for orders not expected to be fulfilled within the subsequent twelve months. The decrease in backlog is primarily attributed to deliveries relating to the large irrigation projects in the MENA region.
+Outlook
+Mr. Wood concluded, “During our fourth quarter, we saw encouraging signs for forward crop prices, improving farmer sentiment in the near-term in North America, however, it is still too early to forecast significant recovery. We expect demand for irrigation equipment in North America to remain tempered until the outlook for commodity prices and farm income improves. In Brazil, high interest rates and ongoing credit constraints remain as headwinds. We're managing the business with discipline through these headwinds so that we're well-positioned when financing conditions improve. Brazil remains central to our long-term international growth, and our planned acquisition of Setorial Irrigação further expands our irrigation portfolio and strengthens our position in the Brazilian market. While we expect difficult year-over-year comparisons in the international irrigation project markets in fiscal 2027, we remain optimistic about the long-term opportunities driven by the growing need to improve food security and water conservation."
+"In our infrastructure business, we anticipate sustained growth in road safety products, supported by the new road safety solutions we've recently introduced in the market. We anticipate Road Zipper System leasing to be comparable to this fiscal year, while we continue to actively manage Road Zipper System projects through the sales funnel."
+Fourth Quarter Conference Call
+Lindsay’s fiscal 2026 fourth quarter investor conference call is scheduled for 11:00 a.m. Eastern Time today. Interested investors may participate in the call by dialing (833) 535-2202 in the U.S., or (412) 902-6745 internationally, and requesting the Lindsay Corporation call. Additionally, the conference call will be simulcast live on the internet and can be accessed via the investor relations section of the Company's website, www.lindsay.com. Replays of the conference call will remain on our website through the next quarterly earnings release. The Company will have a slide presentation available to augment management's formal presentation, which will also be accessible via the Company's website.
+3
+About the Company
+Lindsay Corporation (NYSE: LNN) is a leading global manufacturer and distributor of irrigation and infrastructure equipment and technology. Established in 1955, the company has been at the forefront of research and development of innovative solutions to meet the food, fuel, fiber and transportation needs of the world’s rapidly growing population. The Lindsay family of irrigation brands includes Zimmatic™ center pivot and lateral move agricultural irrigation systems, FieldNET™ and FieldWise™ remote irrigation management technology, FieldNET Advisor™ irrigation scheduling technology, and industrial IoT solutions. Also a global leader in the transportation industry, Lindsay Transportation Solutions manufactures equipment to improve road safety and keep traffic moving on the world’s roads, bridges and tunnels, through the Road Zipper™ and Snoline™ brands. For more information about Lindsay Corporation, visit www.lindsay.com.
+Concerning Forward-looking Statements
+This release contains forward-looking statements that are subject to risks and uncertainties, and which reflect management’s current beliefs and estimates of future economic circumstances, industry conditions, Company performance and financial results. You can find a discussion of many of these risks and uncertainties in the annual, quarterly and current reports that the Company files with the Securities and Exchange Commission. Forward-looking statements include information concerning possible or assumed future results of operations and planned financing of the Company and those statements preceded by, followed by or including the words “anticipate,” “estimate,” “believe,” “intend,” "expect," "outlook," "could," "may," "should," “will,” or similar expressions. For these statements, the Company claims the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. The Company undertakes no obligation to update any forward-looking information contained in this press release.
+For further information, contact:
+LINDSAY CORPORATION: | Alpha IR:
+Alicia Pfeifer | Joe Caminiti
+Vice President, Business Finance | 312-445-2870
+402-933-6429 | LNN@alpha-ir.com
+Alicia.Pfeifer@lindsay.com
+4
+LINDSAY CORPORATION AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF EARNINGS
+(Unaudited)
+Three Months Ended August 31, | Years Ended August 31,
+(in thousands, except per share amounts) | 2026 | 2025 | 2026 | 2025
+Operating revenues | $ | 161,566 | $ | 153,559 | $ | 635,863 | $ | 676,368
+Cost of operating revenues | 118,066 | 108,854 | 452,080 | 465,588
+Gross profit | 43,500 | 44,705 | 183,783 | 210,780
+Operating expenses:
+Selling expense | 10,402 | 10,462 | 42,258 | 41,740
+General and administrative expense | 13,669 | 17,723 | 57,598 | 62,986
+Engineering and research expense | 3,636 | 5,195 | 17,002 | 17,930
+Total operating expenses | 27,707 | 33,380 | 116,858 | 122,656
+Operating income | 15,793 | 11,325 | 66,925 | 88,124
+Other income (expense):
+Interest income, net | 2,272 | 2,053 | 9,890 | 5,885
+Other expense, net | (781 | ) | 244 | (1,500 | ) | 574
+Total other income | 1,491 | 2,297 | 8,390 | 6,459
+Earnings before income taxes | 17,284 | 13,622 | 75,315 | 94,583
+Income tax expense | 6,020 | 2,809 | 19,662 | 20,531
+Net earnings | $ | 11,264 | $ | 10,813 | $ | 55,653 | $ | 74,052
+Earnings per share:
+Basic | $ | 1.11 | $ | 1.01 | $ | 5.35 | $ | 6.82
+Diluted | $ | 1.10 | $ | 0.99 | $ | 5.33 | $ | 6.78
+Shares used in computing earnings per share:
+Basic | 10,169 | 10,857 | 10,397 | 10,859
+Diluted | 10,219 | 10,928 | 10,436 | 10,918
+Cash dividends declared per share | $ | 0.38 | $ | 0.37 | $ | 1.49 | $ | 1.45
+5
+LINDSAY CORPORATION AND SUBSIDIARIES
+SUMMARY OPERATING RESULTS
+(Unaudited)
+Three Months Ended August 31, | Years Ended August 31,
+(in thousands) | 2026 | 2025 | 2026 | 2025
+Operating revenues:
+Irrigation:
+North America | $ | 55,400 | $ | 50,046 | $ | 262,104 | $ | 273,839
+International | 78,343 | 78,984 | 279,346 | 294,161
+Irrigation total | 133,743 | 129,029 | 541,450 | 568,000
+Infrastructure | 27,823 | 24,530 | 94,413 | 108,368
+Total operating revenues | $ | 161,566 | $ | 153,559 | $ | 635,863 | $ | 676,368
+Operating income:
+Irrigation | $ | 17,313 | $ | 17,697 | $ | 80,081 | $ | 96,963
+Infrastructure | 4,973 | 3,533 | 16,033 | 26,338
+Corporate | (6,493 | ) | (9,906 | ) | (29,189 | ) | (35,177 | )
+Total operating income | $ | 15,793 | $ | 11,325 | $ | 66,925 | $ | 88,124
+The Company manages its business activities in two reportable segments as follows:
+Irrigation – This reporting segment includes the manufacture and marketing of center pivot, lateral move, and hose reel irrigation systems, repair and replacement parts for irrigation systems and controls, and large diameter steel tubing, as well as various innovative technology solutions such as GPS positioning and guidance, variable rate irrigation, remote irrigation management and scheduling technology, irrigation consulting and design and industrial IoT solutions.
+Infrastructure – This reporting segment includes the manufacture and marketing of movable barriers, specialty barriers, crash cushions and end terminals, road marking and road safety equipment, railroad signals and structures, and technology to monitor critical safety infrastructure on roadways.
+6
+LINDSAY CORPORATION AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Unaudited)
+(in thousands) | August 31, 2026 | August 31, 2025
+ASSETS
+Current assets:
+Cash and cash equivalents | $ | 189,836 | $ | 250,575
+Receivables, net of allowance of $5,883 and $6,089, respectively | 111,201 | 113,027
+Inventories, net | 135,229 | 136,859
+Other current assets | 35,331 | 32,303
+Total current assets | 471,597 | 532,764
+Property, plant, and equipment, net | 170,929 | 142,307
+Intangible assets, net | 22,300 | 23,331
+Goodwill | 84,446 | 84,459
+Operating lease right-of-use assets | 19,412 | 18,096
+Deferred income tax assets | 17,422 | 19,525
+Equity method investment | 8,370 | 8,763
+Other noncurrent assets | 20,626 | 11,591
+Total assets | $ | 815,102 | $ | 840,836
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+Accounts payable | $ | 56,940 | $ | 48,670
+Current portion of long-term debt | — | 233
+Other current liabilities | 92,877 | 94,689
+Total current liabilities | 149,817 | 143,592
+Pension benefits liabilities | 3,163 | 3,418
+Long-term debt | 114,829 | 114,810
+Operating lease liabilities | 18,128 | 17,354
+Deferred income tax liabilities | 967 | 1,024
+Other noncurrent liabilities | 22,537 | 27,788
+Total liabilities | 309,441 | 307,986
+Shareholders' equity:
+Preferred stock | — | —
+Common stock | 19,200 | 19,167
+Capital in excess of stated value | 118,796 | 113,042
+Retained earnings | 785,658 | 745,397
+Less treasury stock - at cost, 9,030 and 8,363 shares, respectively | (391,962 | ) | (311,224 | )
+Accumulated other comprehensive loss, net | (26,031 | ) | (33,532 | )
+Total shareholders' equity | 505,661 | 532,850
+Total liabilities and shareholders' equity | $ | 815,102 | $ | 840,836
+7
+LINDSAY CORPORATION AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+Years Ended August 31,
+($ in thousands) | 2026 | 2025
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net earnings | $ | 55,653 | $ | 74,052
+Adjustments to reconcile net earnings to net cash provided by operating activities:
+Depreciation and amortization | 23,061 | 20,896
+Provision for uncollectible accounts receivable | 261 | 1,725
+Deferred income taxes | 10,904 | (1,433 | )
+Share-based compensation expense | 5,614 | 8,059
+Foreign currency transaction loss | (770 | ) | (718 | )
+Other, net | 1,168 | (2,669 | )
+Changes in assets and liabilities:
+Receivables | 1,739 | 3,448
+Inventories | 4,234 | 19,090
+Other current assets | (3,389 | ) | (784 | )
+Accounts payable | (316 | ) | 11,115
+Other current liabilities | (14,002 | ) | (4,422 | )
+Other noncurrent assets and liabilities | (9,237 | ) | 4,551
+Net cash provided by operating activities | 74,920 | 132,910
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchases of property, plant and equipment | (40,172 | ) | (42,496 | )
+Purchases of marketable securities available-for-sale | — | (14,676 | )
+Proceeds from maturities of marketable securities available-for-sale | — | 15,000
+Purchase of equity method investment | — | (5,813 | )
+Proceeds from settlement of net investment hedge | 220 | 835
+Payments for settlement of net investment hedge | (1,746 | ) | (98 | )
+Other investing activities, net | (1,119 | ) | (1,326 | )
+Net cash used in investing activities | (42,817 | ) | (48,574 | )
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Repurchase of common shares | (80,738 | ) | (11,532 | )
+Dividends paid | (15,392 | ) | (15,748 | )
+Proceeds from exercise of stock options | 805 | 1,507
+Common stock withheld for payroll tax obligations | (1,253 | ) | (1,450 | )
+Other financing activities, net | 356 | 372
+Net cash used in financing activities | (96,222 | ) | (26,851 | )
+Effect of exchange rate changes on cash and cash equivalents | 3,380 | 2,211
+Net change in cash and cash equivalents | (60,739 | ) | 59,696
+Cash and cash equivalents, beginning of period | 250,575 | 190,879
+Cash and cash equivalents, end of period | $ | 189,836 | $ | 250,575
+SUPPLEMENTAL CASH FLOW INFORMATION
+Accrual of unpaid property, plant and equipment | 9,483 | 1,022
+8
