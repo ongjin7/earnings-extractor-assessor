@@ -1881,5 +1881,213 @@
     "filing_found": false,
     "recheck": true,
     "assessed_at": "2026-10-29T06:37:49+08:00"
+  },
+  {
+    "accession": "0001466026-26-000097",
+    "cik": "1466026",
+    "company": "Midland States Bancorp, Inc.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left revenue empty, so there is nothing to check. The release gives only adjusted total revenue (86,143), a non-GAAP figure."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left operating income empty, so there is nothing to check. The release shows no operating income line, as is usual for a bank."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The 10-Q figure could not be read today (data.sec.gov answered 403). The quote 'Net income (loss) | 22,808' is in the release and holds 22.808 million."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The 10-Q figure could not be read today (data.sec.gov answered 403). The quote is in the release and holds 0.95 per share."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "Both figures given have their quote in the release and the quote holds the number (22.808; 0.95). The 10-Q check is still to come, as data.sec.gov was blocked today."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "Net income and EPS are present. Revenue and operating income are empty, but the release gives no GAAP revenue or operating income line for this bank, so nothing is lost."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Net income, EPS and three quoted claims can be used as they stand. Revenue is blank and the 10-Q is not yet checked, so the analyst should confirm the filed figures later."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "22.808 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "diluted_eps": {
+        "extracted": "0.95 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Tested on the release's own table: diluted EPS rose to 0.95 from 0.82 in the previous quarter and 0.24 a year ago; net income was 22,808 against 19,888 and 7,557."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Release table: nonperforming assets to total assets fell to 0.86% from 0.91% in the previous quarter and 1.02% a year ago; nonperforming assets were 58,870 against 61,235."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "Outlook, so judged against the trend: diluted EPS rose from 0.82 to 0.95 and nonperforming assets fell, which is consistent with solid momentum. No filed revenue to test."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "The release table shows EPS of 0.95 against 0.82 in the previous quarter and 0.24 a year ago, and a lower nonperforming ratio (0.86% from 0.91%)."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 22.808,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 0.95,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Management describes the quarter as solid and reports earnings per share of $0.95.",
+        "quote": "Our third quarter results reflect another solid quarter of execution and continued progress toward building a higher-performing community bank.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "Credit quality improved, with the nonperforming asset ratio falling to 0.86%.",
+        "quote": "our nonperforming asset ratio improved to 0.86%",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management enters the fourth quarter focused on relationship growth and credit normalisation.",
+        "quote": "We enter the fourth quarter with solid momentum and remain focused on profitable relationship growth, continued credit normalization and disciplined capital deployment",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter solid, cites improved credit measures and solid momentum."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-10-30T06:38:07+08:00"
   }
 ]
