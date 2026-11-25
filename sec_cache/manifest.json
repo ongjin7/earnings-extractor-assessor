@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-25T12:07:27+08:00",
+  "fetched_at": "2026-11-25T12:32:14+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -9,80 +9,80 @@
     "note": "The last radar run was more than 14 days ago, so the radar looked back 14 days only."
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 25,
-  "answered": 25,
+  "requests": 26,
+  "answered": 26,
   "sources": [
     {
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 110 ms"
+      "detail": "HTTP 200, 60 KB in 51 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 740 ms"
+      "detail": "HTTP 200, 60 KB in 27 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 88 ms"
+      "detail": "HTTP 200, 60 KB in 30 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=300",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 127 ms"
+      "detail": "HTTP 200, 60 KB in 885 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=400",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 111 ms"
+      "detail": "HTTP 200, 59 KB in 1337 ms"
     },
     {
       "name": "Earnings radar, page 6",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=500",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 58 ms"
+      "detail": "HTTP 200, 60 KB in 571 ms"
     },
     {
       "name": "Earnings radar, page 7",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=600",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 94 ms"
+      "detail": "HTTP 200, 60 KB in 716 ms"
     },
     {
       "name": "Earnings radar, page 8",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=700",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 69 ms"
+      "detail": "HTTP 200, 60 KB in 548 ms"
     },
     {
       "name": "Earnings radar, page 9",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=800",
       "ok": true,
-      "detail": "HTTP 200, 45 KB in 87 ms"
+      "detail": "HTTP 200, 45 KB in 528 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 29 ms"
+      "detail": "HTTP 200, 149 KB in 45 ms"
     },
     {
       "name": "Alphabet filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 84 ms"
+      "detail": "HTTP 200, 1 KB in 32 ms"
     },
     {
       "name": "Alphabet press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
       "ok": true,
-      "detail": "HTTP 200, 361 KB in 241 ms"
+      "detail": "HTTP 200, 361 KB in 74 ms"
     },
     {
       "name": "Amazon filings list",
@@ -94,81 +94,87 @@
       "name": "Amazon filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 74 ms"
+      "detail": "HTTP 200, 1 KB in 23 ms"
     },
     {
       "name": "Amazon press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 657 KB in 134 ms"
+      "detail": "HTTP 200, 657 KB in 37 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 28 ms"
+      "detail": "HTTP 200, 154 KB in 17 ms"
     },
     {
-      "name": "Aeries Technology, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1853044/000182912626012225/index.json",
+      "name": "Boxlight Corp filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1624512/000143774926037324/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 89 ms"
+      "detail": "HTTP 200, 1 KB in 67 ms"
     },
     {
-      "name": "Aeries Technology, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1853044/000182912626012225/aeriestech_ex99-1.htm",
+      "name": "Boxlight Corp filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1624512/000143774926037324/0001437749-26-037324-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 105 KB in 83 ms"
+      "detail": "HTTP 200, 10 KB in 27 ms"
     },
     {
-      "name": "Hyperscale Data, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/896493/000121465926014587/index.json",
+      "name": "Boxlight Corp press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1624512/000143774926037324/ex_1011500.htm",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 74 ms"
+      "detail": "HTTP 200, 367 KB in 62 ms"
     },
     {
-      "name": "Hyperscale Data, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/896493/000121465926014587/ex99_1.htm",
+      "name": "DYNARESOURCE, INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1111741/000119312526465082/index.json",
       "ok": true,
-      "detail": "HTTP 200, 38 KB in 316 ms"
+      "detail": "HTTP 200, 1 KB in 35 ms"
+    },
+    {
+      "name": "DYNARESOURCE, INC. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1111741/000119312526465082/dynr-ex99_1.htm",
+      "ok": true,
+      "detail": "HTTP 200, 183 KB in 93 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 55 ms"
+      "detail": "HTTP 200, 3,175 KB in 52 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 64 ms"
+      "detail": "HTTP 200, 4,447 KB in 36 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 62 ms"
+      "detail": "HTTP 200, 2,745 KB in 52 ms"
     },
     {
-      "name": "Aeries Technology, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001853044.json",
+      "name": "Boxlight Corp company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001624512.json",
       "ok": true,
-      "detail": "HTTP 200, 728 KB in 135 ms"
+      "detail": "HTTP 200, 1,745 KB in 40 ms"
     },
     {
-      "name": "Hyperscale Data, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000896493.json",
+      "name": "DYNARESOURCE, INC. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001111741.json",
       "ok": true,
-      "detail": "HTTP 200, 3,103 KB in 379 ms"
+      "detail": "HTTP 200, 2,412 KB in 717 ms"
     }
   ],
   "files": [
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000896493.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001111741.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001624512.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001853044.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -183,11 +189,12 @@
     "efts.sec.gov_search-index_from800.json",
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_amzn-20260930xex991.htm",
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_index.json",
+    "www.sec.gov_Archives_edgar_data_1111741_000119312526465082_dynr-ex99_1.htm",
+    "www.sec.gov_Archives_edgar_data_1111741_000119312526465082_index.json",
+    "www.sec.gov_Archives_edgar_data_1624512_000143774926037324_0001437749-26-037324-index.htm",
+    "www.sec.gov_Archives_edgar_data_1624512_000143774926037324_ex_1011500.htm",
+    "www.sec.gov_Archives_edgar_data_1624512_000143774926037324_index.json",
     "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_googexhibit991q32026.htm",
-    "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_index.json",
-    "www.sec.gov_Archives_edgar_data_1853044_000182912626012225_aeriestech_ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1853044_000182912626012225_index.json",
-    "www.sec.gov_Archives_edgar_data_896493_000121465926014587_ex99_1.htm",
-    "www.sec.gov_Archives_edgar_data_896493_000121465926014587_index.json"
+    "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_index.json"
   ]
 }
